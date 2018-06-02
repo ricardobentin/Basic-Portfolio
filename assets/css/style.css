@@ -3,7 +3,7 @@
    
 }
 body {
-    background-image: url("./assets/images/Background.png");
+    background-image: url("../images/Background.png");
     background-color: red; /*remove before submitting this is just for wip */
 }
 
@@ -41,6 +41,7 @@ nav {
     margin-left: 20px;
     width: 400px;
     height: 60px;
+    background-color: black;
     
 }
 
