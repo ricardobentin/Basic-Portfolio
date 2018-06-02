@@ -75,3 +75,11 @@ footer {
   h1 {
       color: #4aaaa5;
   }
+  #ricardo {
+      box-sizing: content-box
+      width: 300px;
+      height: 200px;
+      float: left;
+      margin-right: 10px;
+      margin-top: 8px;
+  }
