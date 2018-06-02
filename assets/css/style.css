@@ -34,7 +34,7 @@ nav {
     position: absolute;
     font-weight: bold;
     left: 198px;
-    top: 53px;
+    top: 48px;
  
 }
 #links{
@@ -51,8 +51,8 @@ nav {
     margin: 20px;
     width: 960px;
     margin: 0 auto;
-    background-color: blue;  /*remove before submitting this is just for wip */
     padding: 20px;
+    background-color: #ffffff;
 }
 
 hr {
