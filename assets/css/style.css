@@ -123,8 +123,8 @@ height: 200px;
 }
 #hangmanlabel:hover {
     text-align: center;
-    color: #4aaaa5;
-    background-color: white; 
+    color: white;
+    background-color: #E89F0C; 
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -150,8 +150,8 @@ height: 200px;
 }
 #rpglabel:hover {
     text-align: center;
-    color: #4aaaa5;
-    background-color: white; 
+    color: white;
+    background-color: #E89F0C;
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -180,8 +180,8 @@ height: 200px;
 }
 #trivialabel:hover {
     text-align: center;
-    color: #4aaaa5;
-    background-color: white; 
+    color: white;
+    background-color: #E89F0C;
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -209,8 +209,8 @@ height: 200px;
 
 #rutgerslabel:hover {
     text-align: center;
-    color: #4aaaa5;
-    background-color: white; 
+    color: white;
+    background-color: #E89F0C;
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -238,8 +238,8 @@ height: 200px;
 
 #rpslabel:hover {
     text-align: center;
-    color: #4aaaa5;
-    background-color: white; 
+    color: white;
+    background-color: #E89F0C;
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -257,6 +257,6 @@ p {
 }
 
 #band {
-    color: #E89F0C;
+    color: E89F0C;
     text-decoration: underline;
 }
