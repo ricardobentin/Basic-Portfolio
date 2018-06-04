@@ -5,6 +5,8 @@
 }
 body {
     background-image: url("../images/Background.png");
+    overflow-y: scroll;
+    margin-top: 0px;
 }
 
 nav {
@@ -30,17 +32,17 @@ nav {
     padding: 15px;
     text-align: center;
     font-size: 24px;
-    position: absolute;
+    position: fixed;
     font-weight: bold;
     left: 472px;
-    top: 48px;
+    top: 40px;
  
 }
 #links{
     position: absolute;
     padding: 20px;
     height: 60px;
-    top: 53px;
+    top: 40px;
     right: 472px;
     
 }
@@ -52,6 +54,9 @@ nav {
     margin: 0 auto;
     padding: 20px;
     background-color: #ffffff;
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: thin;
 }
 
 hr {
@@ -68,7 +73,7 @@ footer {
     border-top: 10px;
     border-top-color: #4aaaa5;
     border-top-style: solid;
-    padding: 10px;
+    padding: 30px;
   }
 
   h1 {
@@ -181,4 +186,13 @@ height: 200px;
     padding: 18px;
     position: relative;
     bottom: 60px;
+}
+
+img {
+    height: 200px; 
+    width: 300px; 
+}
+
+p {
+    color: #777777;
 }
