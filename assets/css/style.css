@@ -80,6 +80,7 @@ footer {
     border-top-color: #4aaaa5;
     border-top-style: solid;
     padding: 30px;
+    color: #777777
   }
 
 h1 {
@@ -89,6 +90,7 @@ h1 {
   }
 h4 {
     margin: 0 auto;
+    font-family: Georgia, Times, "Times New Roman", serif;
 }
 
   #ricardo {
@@ -262,6 +264,6 @@ p {
 }
 
 #band {
-    color: E89F0C;
+    color: #E89F0C;
     text-decoration: underline;
 }
