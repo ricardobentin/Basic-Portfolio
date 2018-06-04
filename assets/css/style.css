@@ -82,10 +82,15 @@ footer {
     padding: 30px;
   }
 
-  h1 {
+h1 {
       color: #4aaaa5;
       font-family: Georgia, Times, "Times New Roman", serif;
+
   }
+h4 {
+    margin: 0 auto;
+}
+
   #ricardo {
       width: 200px;
       height: 200px;
