@@ -75,8 +75,7 @@ footer {
       color: #4aaaa5;
   }
   #ricardo {
-      box-sizing: content-box
-      width: 300px;
+      width: 200px;
       height: 200px;
       float: left;
       margin-right: 10px;
@@ -90,5 +89,96 @@ footer {
 
 #messagebox {
     width: 922px;
-    height: 244px;
+    height: 400px;
+}
+
+#hangman {
+float: left;
+margin-right: 30px;
+width: 300px;
+height: 200px;
+}
+
+#hangmanlabel {
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+
+#rpg {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+#rpglabel {
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+
+#trivia {
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    height: 200px;
+}
+
+#trivialabel {
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+
+#rutgers {
+    Float: left;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+}
+
+#rutgerslabel {
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+
+#rps {
+    clear: both;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+}
+
+#rpslabel {
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
 }
