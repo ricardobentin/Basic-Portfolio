@@ -121,6 +121,16 @@ height: 200px;
     position: relative;
     bottom: 60px;
 }
+#hangmanlabel:hover {
+    text-align: center;
+    color: #4aaaa5;
+    background-color: white; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
 
 #rpg {
     width: 300px;
@@ -132,6 +142,16 @@ height: 200px;
     text-align: center;
     color: white;
     background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+#rpglabel:hover {
+    text-align: center;
+    color: #4aaaa5;
+    background-color: white; 
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -158,6 +178,16 @@ height: 200px;
     position: relative;
     bottom: 60px;
 }
+#trivialabel:hover {
+    text-align: center;
+    color: #4aaaa5;
+    background-color: white; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
 
 #rutgers {
     Float: left;
@@ -170,6 +200,17 @@ height: 200px;
     text-align: center;
     color: white;
     background-color: #4aaaa5; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+
+#rutgerslabel:hover {
+    text-align: center;
+    color: #4aaaa5;
+    background-color: white; 
     z-index: 1;
     height: 50px;
     padding: 18px;
@@ -195,6 +236,17 @@ height: 200px;
     bottom: 60px;
 }
 
+#rpslabel:hover {
+    text-align: center;
+    color: #4aaaa5;
+    background-color: white; 
+    z-index: 1;
+    height: 50px;
+    padding: 18px;
+    position: relative;
+    bottom: 60px;
+}
+
 img {
     height: 200px; 
     width: 300px; 
@@ -202,4 +254,9 @@ img {
 
 p {
     color: #777777;
+}
+
+#band {
+    color: #E89F0C;
+    text-decoration: underline;
 }
