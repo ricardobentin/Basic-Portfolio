@@ -123,6 +123,7 @@ float: left;
 margin-right: 30px;
 width: 300px;
 height: 200px;
+margin-top:16px;
 }
 
 #hangmanlabel {
@@ -150,6 +151,7 @@ height: 200px;
     width: 300px;
     height: 200px;
     float: left;
+    margin-top:16px;
 }
 
 #rpglabel {
