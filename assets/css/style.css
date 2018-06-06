@@ -56,7 +56,6 @@ nav {
 
 #content {
     clear: both;
-    margin: 20px;
     width: 960px;
     margin: 0 auto;
     padding: 20px;
@@ -64,6 +63,8 @@ nav {
     border-color: #dddddd;
     border-style: solid;
     border-width: thin;
+    margin-left: 198px;
+    margin-right: 198px;
 }
 
 hr {
