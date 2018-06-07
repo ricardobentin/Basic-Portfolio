@@ -81,7 +81,10 @@ footer {
     border-top: 10px;
     border-top-color: #4aaaa5;
     border-top-style: solid;
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
     color: #777777
   }
 
@@ -283,14 +286,21 @@ p {
 #about {
     border-right: 1px;
     border-style: solid;
+    border-color: #dddddd;
     text-align: center;
-    padding-right: 5px;
+    padding-right: 10px;
    
 }
 
 #portfolio {
     border-right: 1px;
     border-style: solid;
+    border-color: #dddddd;
     text-align: center;
-    padding-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#contact {
+    padding-left: 10px;
 }
