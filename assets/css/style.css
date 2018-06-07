@@ -279,3 +279,18 @@ p {
     color: #E89F0C;
     text-decoration: underline;
 }
+
+#about {
+    border-right: 1px;
+    border-style: solid;
+    text-align: center;
+    padding-right: 5px;
+   
+}
+
+#portfolio {
+    border-right: 1px;
+    border-style: solid;
+    text-align: center;
+    padding-right: 5px;
+}
